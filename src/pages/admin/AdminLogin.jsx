@@ -99,7 +99,7 @@ import { bgGradient } from "../../constants/color";
 import { adminLogin, getAdmin } from "../../redux/thunks/admin";
 
 // Import your logo image
-import logo from "../../../../chatapp-frontend-master/favicon-0.png";
+import logo from "../../images/favicon.png";
 
 const AdminLogin = () => {
   const { isAdmin } = useSelector((state) => state.auth);

@@ -311,7 +311,7 @@ import { userExists } from "../redux/reducers/auth";
 import { usernameValidator } from "../utils/validators";
 
 // Import your logo image
-import logo from "../../../chatapp-frontend-master/favicon-0.png";
+import logo from "../images/favicon.png";
 
 const Login = () => {
   // State variables and functions
